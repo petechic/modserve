@@ -1,0 +1,37 @@
+C:\Users\petechic\Desktop\ModServe9\ModServe1\bin\Release\ModServe1.exe.config
+C:\Users\petechic\Desktop\ModServe9\ModServe1\bin\Release\ModServe1.exe
+C:\Users\petechic\Desktop\ModServe9\ModServe1\bin\Release\ModServe1.pdb
+C:\Users\petechic\Desktop\ModServe9\ModServe1\bin\Release\EasyModbus.dll
+C:\Users\petechic\Desktop\ModServe9\ModServe1\obj\Release\ModServe1.Form1.resources
+C:\Users\petechic\Desktop\ModServe9\ModServe1\obj\Release\ModServe1.Properties.Resources.resources
+C:\Users\petechic\Desktop\ModServe9\ModServe1\obj\Release\ModServe1.csproj.GenerateResource.Cache
+C:\Users\petechic\Desktop\ModServe9\ModServe1\obj\Release\ModServe1.exe
+C:\Users\petechic\Desktop\ModServe9\ModServe1\obj\Release\ModServe1.pdb
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\bin\Release\ModServe1.exe.config
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.exe
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.pdb
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\bin\Release\ModServe1.exe
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\bin\Release\ModServe1.pdb
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\bin\Release\EasyModbus.dll
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.csprojResolveAssemblyReference.cache
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.Form1.resources
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.Properties.Resources.resources
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9\ModServe1\obj\Release\ModServe1.csproj.GenerateResource.Cache
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\bin\Release\EasyModbus.dll
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\obj\Release\ModServe1.Form1.resources
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\obj\Release\ModServe1.csproj.GenerateResource.Cache
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\obj\Release\ModServe.Properties.Resources.resources
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\bin\Release\ModServe.exe.config
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\bin\Release\ModServe.exe
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\bin\Release\ModServe.pdb
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\obj\Release\ModServe.exe
+C:\Users\petechic\Documents\Visual Studio 2015\Projects\ModServe9.1\ModServe1\obj\Release\ModServe.pdb
+C:\Users\petechic\Desktop\ModServe\ModServe1\bin\Release\ModServe.exe.config
+C:\Users\petechic\Desktop\ModServe\ModServe1\bin\Release\ModServe.exe
+C:\Users\petechic\Desktop\ModServe\ModServe1\bin\Release\ModServe.pdb
+C:\Users\petechic\Desktop\ModServe\ModServe1\bin\Release\EasyModbus.dll
+C:\Users\petechic\Desktop\ModServe\ModServe1\obj\Release\ModServe1.Form1.resources
+C:\Users\petechic\Desktop\ModServe\ModServe1\obj\Release\ModServe.Properties.Resources.resources
+C:\Users\petechic\Desktop\ModServe\ModServe1\obj\Release\ModServe1.csproj.GenerateResource.Cache
+C:\Users\petechic\Desktop\ModServe\ModServe1\obj\Release\ModServe.exe
+C:\Users\petechic\Desktop\ModServe\ModServe1\obj\Release\ModServe.pdb
