@@ -22,4 +22,8 @@ g. Updated to work with Visual Studio 2022, SQL Server Express 2022, Mod Sim 2 (
 
 I hope you like it. Please, let me know what you think.
 
+Here's a link to a video overview:
+https://youtube.com/watch?v=PdMY7xqk_Og&feature=shares
+
+
 Pete
